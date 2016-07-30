@@ -1,0 +1,22 @@
+{
+    "name": "molnapps/filemanager",
+    "description": "Abstraction layer to upload files",
+    "authors": [
+        {
+            "name": "***REMOVED***",
+            "email": "***REMOVED***"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.4.*",
+        "mikey179/vfsStream": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "MolnApps\\": "src/MolnApps/"
+        }
+    }
+}
