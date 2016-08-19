@@ -3,8 +3,8 @@
     "description": "Abstraction layer to upload files",
     "authors": [
         {
-            "name": "***REMOVED***",
-            "email": "***REMOVED***"
+            "name": "MolnApps",
+            "email": "info@molnapps.com"
         }
     ],
     "minimum-stability": "stable",
